@@ -1,0 +1,53 @@
+body {
+	background-color: #FFDC92;
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 1em;
+	position: relative;
+}
+
+.container {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	color: crimson;
+	letter-spacing: 2px;
+	margin-top: 2%;
+}
+
+img {
+	width: 12%;
+	margin-left: 46.5%;
+	margin-top: 3%;
+	margin-left: 46.5%;
+}
+
+#eat {
+    margin-top: 5%;
+}
+
+#devour {
+    margin-top: 3%;
+}
+
+#devoured {
+    margin-top: 1%;
+    margin-left: 16%;
+}
+
+#submit {
+    margin-top: 5%;
+}
+
+.button2 {
+    margin-top: 10%;
+}
+
+.field {
+    margin-top: 5%;
+}
+
+.burgerName {
+	width: 100%;
+}
